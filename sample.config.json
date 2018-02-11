@@ -1,0 +1,11 @@
+{
+  "server_url": "http://localhost",
+  "server_port": 9999,
+  "query_engine_url": "http://localhost:9400",
+  "mapping_path": "mapping.json",
+  "csv_path": "movie_metadata.csv",
+  "index_name": "movie_recommendations",
+  "num_shards": 3,
+  "type_name": "movie",
+  "omdb_link": "http://omdbapi.com"
+}
